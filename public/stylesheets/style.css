@@ -41,5 +41,14 @@ a {
 .light{
   padding: 30px;
   color: white;
+  margin: 0;
+
+}
+
+.pad{
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
 
 }
